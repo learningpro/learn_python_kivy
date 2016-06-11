@@ -1,2 +1,2 @@
 # learn_python_kivy
-learn to use kivy to build some python app
+learn to use [kivy](https://kivy.org/) to build some python app
